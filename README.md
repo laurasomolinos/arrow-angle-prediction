@@ -51,11 +51,13 @@ arrow-angle-prediction.
 
 Install dependencies:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 run: 
 ```bash
-jupyter notebook```
+jupyter notebook
+```
 
 ## Notes
 
